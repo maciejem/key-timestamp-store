@@ -18,7 +18,7 @@ docker-compose up --build
 ## Running tests
 
 ```bash
-maven clean test
+mvn clean test
 ```
 
 
